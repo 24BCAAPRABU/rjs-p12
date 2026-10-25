@@ -18,7 +18,9 @@ function App() {
       id: 3,
       name: "Mouse",
       price: 800,
-      quantity: 1
+      quantity: 2
+    
+
     }
   ]);
 
